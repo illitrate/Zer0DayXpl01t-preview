@@ -142,14 +142,6 @@ A command-line interface for direct system interaction, complete with standard c
 - iOS 17.0+
 - Xcode 15.0+
 
-## Building
-
-```bash
-xcodebuild -project "Zer0Day Xpl01t.xcodeproj" \
-  -scheme "Zer0Day Xpl01t" \
-  -configuration Debug build
-```
-
 ## Architecture
 
 ```
